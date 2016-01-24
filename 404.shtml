@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Xact Natural Pest Management Id Your Pest Catalog">
+    <meta name="author" content="">
+    <meta name="keywords" content="Natural Pest Control, Natural Pest Management, Organic Pest Control, Organic Pest Management, Pest Control, Safe, Cats, Dogs" />
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+    <title>Xact Natural Pest Management - 404</title>
+
+    <link href="assets/css/hover_pack.css" rel="stylesheet">
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/colors/color-74c9be.css" rel="stylesheet">    
+    <link href="assets/css/animations.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    
+    
+    <!-- JavaScripts needed at the beginning
+    ================================================== -->
+    <script type="text/javascript" src="http://alvarez.is/demo/marco/assets/js/twitterFetcher_v10_min.js"></script>
+
+    <!-- MAP SCRIPT - ALL CONFIGURATION IS PLACED HERE - VIEW OUR DOCUMENTATION FOR FURTHER INFORMATION -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+    
+    
+    
+    <!-- Main Jquery & Hover Effects. Should load first -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/hover_pack.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script>
+		 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		 ga('create', 'UA-43812828-1', 'auto');
+		 ga('send', 'pageview');
+	
+	</script>
+    
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll">
+
+ <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="logo" href="index.html"><img class="logo-img" src="assets/topbar_icon.png" width="auto" height="40" alt="XactNatural Logo"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="system.html">OUR SYSTEM</a></li>
+            <li><a href="services.html">SERVICES</a></li>
+            <li><a href="ID.html">ID YOUR PEST</a></li>
+            <li><a><i class="fa fa-envelope-o"></i></a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    
+    
+    <div class="centered">
+    <br><br><br><br><br><br><br><br><br><br><br>
+    	<h1> 404 - Page Not Found </h1>
+        <p>The page you requested does not seem to exist. Please use your browser's back button or <a href="/index.html">go back to the home page</a></p>
+        
+        <br><br><br><br><br><br><br><br><br><br><br>
+
+    </div>
+    
+    
+    
+    
+   
+
+
+
+
+
+
+
+
+
+
+	
+	<! ========== FOOTER ======================================================================================================== 
+	=============================================================================================================================>    
+	
+	<div id="f">
+		<div class="container">
+			<div class="row">
+				<!-- ADDRESS -->
+			<div class="col-lg-3 col-lg-offset-2">
+					<p>
+						3646 NW 16th Street<br>Lauderhill, Florida<br>USA 33311
+                        
+					</p>
+				</div>
+                <div class="col-lg-3">
+					<p>
+						<i class="fa fa-phone"></i> (888) 333-XACT<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(954) 587-5612</br>
+						<i class="fa fa-envelope-o"></i> info@xactnatural.com
+					</p>
+				</div>
+                <div class="col-lg-3">
+					<p>
+						Copyright © 2015<br>
+                        Xact Natural Pest Management Inc.<br>
+                        All Rights Reserved.
+					</p>
+				</div>
+				
+				
+				
+			</div><! --/row -->
+		</div><!-- /container -->
+	</div><!-- /f -->
+	
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/retina.js"></script>
+
+
+
+
+
+  
+  </body>
+</html>
